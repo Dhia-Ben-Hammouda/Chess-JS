@@ -25,3 +25,7 @@ body{
 .white{
    background:white;
 }
+
+img{
+   cursor:pointer;
+}
